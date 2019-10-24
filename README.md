@@ -19,4 +19,18 @@ git clone https://github.com/danxuhk/ContinuousCRF-CNN.git
 
 
 ## Citation
+'''
+@inproceedings{xu2019deepcrf, 
+  title={Structured Modeling of Joint Deep Feature and Prediction Refinement for Salient Object Detection}, 
+  author={Xu, Yingyue and Xu, Dan and Hong, Xiaopeng and Ouyang, Wanli and Ji, Rongrong and Xu, Min and Zhao, Guoying}, 
+  booktitle={ICCV}, 
+  year={2019}
+} 
 
+@article{xu2018monocular,
+  title={Monocular Depth Estimation using Multi-Scale Continuous CRFs as Sequential Deep Networks},
+  author={Xu, Dan and Ricci, Elisa and Ouyang, Wanli and Wang, Xiaogang and Sebe, Nicu},
+  journal={IEEE TPAMI},
+  year={2018}
+}
+'''
