@@ -8,7 +8,6 @@ Please install Caffe with the continous CRF layers from
 ```
 cd <caffe_root>/examples
 git clone https://github.com/danxuhk/ContinuousCRF-CNN.git
-
 ```
 
 ##
