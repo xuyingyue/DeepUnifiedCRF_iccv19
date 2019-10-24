@@ -19,7 +19,7 @@ git clone https://github.com/danxuhk/ContinuousCRF-CNN.git
 
 
 ## Citation
-'''
+```
 @inproceedings{xu2019deepcrf, 
   title={Structured Modeling of Joint Deep Feature and Prediction Refinement for Salient Object Detection}, 
   author={Xu, Yingyue and Xu, Dan and Hong, Xiaopeng and Ouyang, Wanli and Ji, Rongrong and Xu, Min and Zhao, Guoying}, 
@@ -33,4 +33,4 @@ git clone https://github.com/danxuhk/ContinuousCRF-CNN.git
   journal={IEEE TPAMI},
   year={2018}
 }
-'''
+```
