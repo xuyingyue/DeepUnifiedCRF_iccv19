@@ -27,6 +27,7 @@ git clone https://github.com/danxuhk/ContinuousCRF-CNN.git
   year={2019}
 } 
 
+ContinuousCRF-CNN:
 @article{xu2018monocular,
   title={Monocular Depth Estimation using Multi-Scale Continuous CRFs as Sequential Deep Networks},
   author={Xu, Dan and Ricci, Elisa and Ouyang, Wanli and Wang, Xiaogang and Sebe, Nicu},
