@@ -3,7 +3,7 @@
 Main code for the ICCV2019 paper "Structured Modeling of Joint Deep Feature and Prediction Refinement for Salient Object Detection". [Arxiv Link](https://arxiv.org/pdf/1909.04366)
 
 ## Caffe Installation
-Please install Caffe with the continous CRF layers based on the work [ContinuousCRF-CNN](https://arxiv.org/pdf/1704.02157.pdf). 
+Please install Caffe with the continous CRF layers based on the work [ContinuousCRF-CNN](https://arxiv.org/pdf/1704.02157.pdf)<sup>2</sup>. 
 
 ```
 cd <caffe_root>/examples
@@ -29,6 +29,7 @@ The resulted saliency maps on eight datasets can be downloaded [here](https://dr
 
 ## Citation
 ```
+[1] Our paper:
 @inproceedings{xu2019deepcrf, 
   title={Structured Modeling of Joint Deep Feature and Prediction Refinement for Salient Object Detection}, 
   author={Xu, Yingyue and Xu, Dan and Hong, Xiaopeng and Ouyang, Wanli and Ji, Rongrong and Xu, Min and Zhao, Guoying}, 
@@ -36,7 +37,7 @@ The resulted saliency maps on eight datasets can be downloaded [here](https://dr
   year={2019}
 } 
 
-ContinuousCRF-CNN:
+[2] ContinuousCRF-CNN:
 @article{xu2018monocular,
   title={Monocular Depth Estimation using Multi-Scale Continuous CRFs as Sequential Deep Networks},
   author={Xu, Dan and Ricci, Elisa and Ouyang, Wanli and Wang, Xiaogang and Sebe, Nicu},
