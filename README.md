@@ -23,7 +23,7 @@ The model can be downloaded [here](https://drive.google.com/open?id=11ZRdobvUDY4
 Note that this released model is newly trained and is slightly different from the one reported in our paper.
 
 ## Saliency Maps
-The resulted saliency maps can be downloaded [here](https://drive.google.com/open?id=1CPB7G7w4Fb_74oIQ4L9ZrUbKrRQNrdHE).
+The resulted saliency maps on eight datasets can be downloaded [here](https://drive.google.com/open?id=1CPB7G7w4Fb_74oIQ4L9ZrUbKrRQNrdHE).
 
 
 ## Citation
