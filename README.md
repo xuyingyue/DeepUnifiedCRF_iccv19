@@ -20,6 +20,7 @@ git clone https://github.com/danxuhk/ContinuousCRF-CNN.git
 
 ## Pre-trained Model
 The model can be downloaded [here](https://drive.google.com/open?id=11ZRdobvUDY49_FG0SyiD6d77LiMeSwu8).
+
 Note that this released model is newly trained and is slightly different from the one reported in our paper.
 
 ## Saliency Maps
