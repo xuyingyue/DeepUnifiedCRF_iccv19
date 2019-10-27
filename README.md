@@ -10,12 +10,20 @@ cd <caffe_root>/examples
 git clone https://github.com/danxuhk/ContinuousCRF-CNN.git
 ```
 
-##
+## Training & Testing
+1. The training code can be found in `run_sal.py`.
+2. The solver can be found in `solver.prototxt`.
+3. The network protocol can be found in `train.prototxt`.
+4. The corresponding files for pre-training are listed in the `pretrain` folder.
+5. The testing code can be found in `test.m` or `test.py`. We used the matlab code in our own experiement.
 
 
+## Pre-trained Model
+The model can be downloaded [here](https://drive.google.com/open?id=11ZRdobvUDY49_FG0SyiD6d77LiMeSwu8).
+Note that this released model is newly trained and is slightly different from the one reported in our paper.
 
-
-
+## Saliency Maps
+The resulted saliency maps can be downloaded [here](https://drive.google.com/open?id=1CPB7G7w4Fb_74oIQ4L9ZrUbKrRQNrdHE).
 
 
 ## Citation
